@@ -1,0 +1,4 @@
+# Ignore typical artifacts
+__pycache__/
+*.pyc
+PersonA_COMPLETE/
